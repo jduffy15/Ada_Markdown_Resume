@@ -36,7 +36,7 @@ I am a 24 year old from Gig Harbor, Washington, who has worked in Early Childhoo
 **University of Washington, 2013, B.A. Psychology.**
 <h3>Outside Interest</h3>
 
->Over the past few months I have prepared myself for Ada coursework by completing avaialble online learning web applications. I familiarized myself with the basiscs of HTML, CSS, Python and Java. This self-teaching approach included but was not limited to the resources linked below. 
+>Over the past few months I have prepared myself for Ada coursework by completing available online learning web applications. I familiarized myself with the basiscs of HTML, CSS, Python and Java. This self-teaching approach included but was not limited to the resources linked below. 
 
 **Code Academy**
 >Familiarized with basics for HTML, CSS, JavaScript. 
@@ -49,7 +49,7 @@ I am a 24 year old from Gig Harbor, Washington, who has worked in Early Childhoo
 
 [6.00SC]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/
 
->>M.I.T. Course 6.092 [Introduction to Programing in Java.] [6.092]
+>>M.I.T. Course 6.092 [Introduction to Programming in Java.] [6.092]
 >>>Introduced basics of Java. 
 
 [6.092]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/
